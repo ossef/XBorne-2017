@@ -1,0 +1,12 @@
+/*---------------------------------------------------------*/
+/*                                                         */
+/* Partie de Code specifique au modéle 'Naissance et Mort' */
+/*  Cas d'une file M/M/1/20, Lambda = 10, Mu = 2         */
+/*  !! Ce block descriptif doit être supprimé !! si vous   */
+/* voulez integrer votre modèle avec le reste de XBorne    */
+/*                                                         */
+/*-------------------------------------------------------- */
+
+   40 
+   21 
+    1  
