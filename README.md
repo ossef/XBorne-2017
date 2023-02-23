@@ -44,8 +44,9 @@ with this new functions to analyse a new model.
    can transform your model into a MM form and use state of the art solver
    available on the web. 
 
- - BirthDeath: Solves any classical birth death process numerically. However, one should inform
-   the main parameters as arrival rates and service rates in each state (only modify function Taux()).
+ - BirthDeath: Solves any classical Birth-Death process numerically. However, one should inform
+   the main parameters as arrival rates and service rates in each state (adapt Taux() function to your model).
+   Examples of M/M/1/B and M/M/C/B are given.
 
  - MatrixOPerations: some programs to transform the matrices: transpose for 
    instance. Also possible to export.
