@@ -1,0 +1,1 @@
+Remarks concerning the loop2 constant allows to end the computation : maxiter : maximum number of iterationsmaxresidu : norm of the difference between two successive vectors(SLUB) or difference between the norm of the solution vector and 1 (Inablau, InablaL)

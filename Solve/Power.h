@@ -1,0 +1,1 @@
+// Maximal Iteration number#define maxiter  100000// Accuracy#define maxdiff 0.0000000001

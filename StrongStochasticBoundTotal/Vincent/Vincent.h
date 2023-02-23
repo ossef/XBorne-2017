@@ -1,0 +1,1 @@
+#define epsNull 1e-12#define DEBUG 0
