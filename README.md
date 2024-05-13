@@ -3,7 +3,7 @@ We present the last version of XBorne a software tool for the probabilistic
 modeling with Markov chains. The tool which has been developed initially as a test-
 bed for the algorithmic stochastic comparisons of stochastic matrices and Markov
 chains, is now a general purpose framework which can be used for the Markovian
-modelling in education and research.
+modelling in education and research, further details in [1].
 
 Xborne is organized as a set of programs which exchange files to analyse
 a model. 
@@ -12,7 +12,7 @@ programs in C (definition of state-dependant probabilities, definition of
 transitions, definition of rewards). Some programms must be compiled
 with this new functions to analyse a new model. 
 
---> User's guide : view details of utilisation in file "xbornV1-3.pdf"
+--> User's guide : view details of utilisation in file `xbornV1-3.pdf`
 
 --> Directories :
 
@@ -80,3 +80,13 @@ with this new functions to analyse a new model.
  - Muntz : Lower and Upper algorithm for the steady state distribution.
 
  - Properties : verifications algorithms of some proprieties of Markov chain graphs.
+
+##  Contributors & Copyright
+
+- [Youssef AIT EL MAHJOUB](https://github.com/ossef)
+- Jean-Michel Fourneau
+- Franck Quessette
+- Dimitris Vekris
+- This code is open source. However, one can cite the original document [1] published in ISCIS 2016.
+
+[1] "XBorne 2016: A Brief Introduction", Youssef AIT EL MAHJOUB, Jean-Michel FOURNEAU, Franck QUESSETTE, Dimitris VEKRIS". in ISCIS - International Symposium on Computer and Information Sciences, 2016.
