@@ -81,12 +81,15 @@ with this new functions to analyse a new model.
 
  - Properties : verifications algorithms of some proprieties of Markov chain graphs.
 
+
 ##  Contributors & Copyright
 
 - [Youssef AIT EL MAHJOUB](https://github.com/ossef)
 - Jean-Michel Fourneau
 - Franck Quessette
 - Dimitris Vekris
-- This code is open source. However, one can cite the original document [1] published in ISCIS 2016.
+- This code is open source. The original document [1], other examples can be found in [2].
 
 [1] "XBorne 2016: A Brief Introduction", Youssef AIT EL MAHJOUB, Jean-Michel FOURNEAU, Franck QUESSETTE, Dimitris VEKRIS". in ISCIS - International Symposium on Computer and Information Sciences, 2016.
+
+[2] "Performance evaluation of Green IT networks", Youssef AIT EL MAHJOUB. In Phd-thesis, Chapter 2. [link : hal.science](https://hal.science/tel-03215137v1), 2021.
