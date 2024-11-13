@@ -88,7 +88,7 @@ with this new functions to analyse a new model.
 - Jean-Michel Fourneau
 - Franck Quessette
 - Dimitris Vekris
-- This code is open source. The original document [1], other examples can be found in [2].
+- This code is open source. The original document paper is [1], other examples can be found in [2].
 
 [1] "XBorne 2016: A Brief Introduction", Youssef AIT EL MAHJOUB, Jean-Michel FOURNEAU, Franck QUESSETTE, Dimitris VEKRIS". in ISCIS - International Symposium on Computer and Information Sciences, 2016.
 
